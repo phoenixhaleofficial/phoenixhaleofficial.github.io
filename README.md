@@ -29,9 +29,6 @@ By using this repository, you agree to the terms and conditions of the EULA.
 
 Contributions to this repository are not allowed. Please respect the terms outlined in the [LICENSE](license.txt) file.
 
-## Contact
-
-For any inquiries, please reach out via Instagram DM: [@phoenixhaleofficial](https://www.instagram.com/phoenixhaleofficial)
 
 ---
 
