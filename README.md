@@ -1,6 +1,6 @@
 # Phoenix Mark Hale - Monochrome Resonance
 
-Welcome to the official website repository for Phoenix Mark Hale and Monochrome Resonance.
+Welcome to the official website repository for Phoenix Mark Hale's website.
 
 ## About
 
