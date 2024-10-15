@@ -8,7 +8,7 @@ This repository contains the source code for the personal website of Phoenix Mar
 
 ## License
 
-**IMPORTANT: Please read the license before forking or using any part of this repository.**
+**IMPORTANT: Please read the license before using any part of this repository.**
 
 This project is licensed using an End-User License Agreement (EULA). See the [LICENSE](license.txt) file for the full license text.
 
