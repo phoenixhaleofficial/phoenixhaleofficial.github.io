@@ -1,0 +1,30 @@
+body {
+    background-color: #121212; /* Dark background */
+    color: #e0e0e0; /* Light text color */
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background-color: #1e1e1e; /* Darker header */
+    padding: 20px;
+    text-align: center;
+}
+
+h1, h2 {
+    color: #ffffff; /* White headings */
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    border-top: 1px solid #333; /* Lighter border */
+    padding-top: 20px;
+}
