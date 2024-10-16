@@ -1,4 +1,4 @@
-# Phoenix Mark Hale - Monochrome Resonance
+# Phoenix Mark Hale - Personal Homepage
 
 Welcome to the official website repository for Phoenix Mark Hale's website.
 
