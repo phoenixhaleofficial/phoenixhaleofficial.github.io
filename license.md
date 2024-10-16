@@ -1,31 +1,45 @@
-End User License Agreement (EULA)
-1. Acceptance of Terms
+# End User License Agreement (EULA)
+
+## 1. Acceptance of Terms
 By accessing or using this GitHub Pages website, you agree to be bound by the terms and conditions of this End User License Agreement. If you do not agree to these terms, you must not access or use the Website.
-2. Intellectual Property Rights
+
+## 2. Intellectual Property Rights
 All content on this Website, including but not limited to text, graphics, logos, images, audio clips, digital downloads, data compilations, and software, is the property of the Website owner and is protected by international copyright laws.
-3. Restrictions on Use
+
+## 3. Restrictions on Use
 You are expressly prohibited from:
-a) Copying, modifying, distributing, selling, or leasing any part of the Website or its content.
-b) Reverse engineering, decompiling, or attempting to extract the source code of any software on the Website.
-c) Using any automated means to access, scrape, or data mine the Website.
-d) Removing any copyright, trademark, or other proprietary notices from the Website.
-e) Framing or mirroring any part of the Website without prior written authorization.
-f) Creating derivative works based on any portion of the Website or its content.
-4. Limited License
+
+a) Copying, modifying, distributing, selling, or leasing any part of the Website or its content.  
+b) Reverse engineering, decompiling, or attempting to extract the source code of any software on the Website.  
+c) Using any automated means to access, scrape, or data mine the Website.  
+d) Removing any copyright, trademark, or other proprietary notices from the Website.  
+e) Framing or mirroring any part of the Website without prior written authorization.  
+f) Creating derivative works based on any portion of the Website or its content.  
+
+## 4. Limited License
 You are granted a limited, non-exclusive, non-transferable license to view the content of the Website for personal, non-commercial use only.
-5. No Right to Use Code
+
+## 5. No Right to Use Code
 You are explicitly forbidden from copying, using, modifying, or distributing any code, whether visible or underlying, from this Website for any purpose whatsoever.
-6. Termination
+
+## 6. Termination
 The Website owner reserves the right to terminate or suspend your access to the Website at any time, without notice, for any reason, including violation of this EULA.
-7. Disclaimer
+
+## 7. Disclaimer
 The Website is provided "as is" without any warranties, express or implied. The Website owner does not warrant that the Website will be error-free or uninterrupted.
-8. Limitation of Liability
+
+## 8. Limitation of Liability
 In no event shall the Website owner be liable for any damages arising out of the use or inability to use the Website.
-9. Governing Law
+
+## 9. Governing Law
 This EULA shall be governed by and construed in accordance with the laws of the Federal Republic of Germany, specifically as applicable in Weiterstadt, Hesse, without regard to its conflict of law provisions. Any disputes arising from or in connection with this EULA shall be subject to the exclusive jurisdiction of the courts in Weiterstadt, Germany.
-10. Changes to EULA
+
+## 10. Changes to EULA
 The Website owner reserves the right to modify this EULA at any time without notice. Your continued use of the Website after any changes indicates your acceptance of the modified EULA.
+
 By using this Website, you acknowledge that you have read, understood, and agree to be bound by this EULA.
+
 Last updated: October 15, 2024
-11. Data Protection and GDPR Compliance
+
+## 11. Data Protection and GDPR Compliance
 The Website owner is committed to protecting your personal data in accordance with the General Data Protection Regulation (GDPR) of the European Union. Any personal data collected through this Website will be processed in compliance with the GDPR and the German Federal Data Protection Act (Bundesdatenschutzgesetz - BDSG). Users have the right to access, rectify, erase, restrict processing, object to processing, and data portability in relation to their personal data.
