@@ -10,9 +10,8 @@ This repository contains the source code for the personal website of Phoenix Mar
 
 **IMPORTANT: Please read the license before using any part of this repository.**
 
-This project is licensed using an End-User License Agreement (EULA). See the [LICENSE](license.txt) file for the full license text.
+This project is licensed under the GNU Affero General Public License (AGPLv3). See the [LICENSE](LICENSE) file for the full license text.
 
-By using this repository, you agree to the terms and conditions of the EULA.
 ## Contents
 
 - Personal information about Phoenix Mark Hale
@@ -24,10 +23,6 @@ By using this repository, you agree to the terms and conditions of the EULA.
 - YouTube: [@phoenixhaleofficial](https://www.youtube.com/@phoenixhaleofficial)
 - Instagram: [@phoenixhaleofficial](https://www.instagram.com/phoenixhaleofficial)
 - Backstage PRO: [Phoenix Mark Hale](https://www.backstagepro.de/musiker/phoenix-mark-hale-gitarrist-schlagzeuger-keyboarder-pianist-producer-songwriter-saenger-weiterstadt-0jZ1zkXqD0)
-
-## Contributing
-
-Contributions to this repository are not allowed. Please respect the terms outlined in the [LICENSE](license.txt) file.
 
 
 ---
