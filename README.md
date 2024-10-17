@@ -6,12 +6,6 @@ Welcome to the official website repository for Phoenix Mark Hale's website.
 
 This repository contains the source code for the personal website of Phoenix Mark Hale, founder, keyboardist, rhythm guitarist, and lead vocalist of the Alternative Rock band Monochrome Resonance.
 
-## License
-
-**IMPORTANT: Please read the license before using any part of this repository.**
-
-This project is licensed under the GNU Affero General Public License (AGPLv3). See the [LICENSE](LICENSE) file for the full license text.
-
 ## Contents
 
 - Personal information about Phoenix Mark Hale
